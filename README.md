@@ -36,4 +36,4 @@ This project is for the Flutter skill set evaluation.
 
 # Demo Video
 
-## Demo Video can be found in the repository [here](https://github.com/ourdex864/bharath_work_assessment/bharath_assessment_recording.mov)
+## Demo Video can be found in the repository [here](https://github.com/ourdex864/bharath_work_assessment/blob/main/bharath_assessment_recording.mov)
