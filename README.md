@@ -4,8 +4,6 @@ This project is for the Flutter skill set evaluation.
 
 # Requirements
 
-Requirement:
-
 1. Home screen with the list of 5 tabs
 2. Main Tab is **For You** section
 3. For you screen is the main screen.
@@ -36,3 +34,6 @@ Requirement:
 - [JSON Serializable](https://pub.dev/packages/json_serializable) => Framework used to generate data
   models to and from JSON.
 
+# Demo Video
+
+## Demo Video can be found in the repository [here](https://github.com/ourdex864/bharath_work_assessment/bharath_assessment_recording.mov)
